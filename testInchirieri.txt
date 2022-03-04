@@ -1,0 +1,6 @@
+
+1,7,popo,dfg,sdfg,24,mana,6004567899000
+2,7,popo,dfg,sdfg,4,dudu,5004567899000
+3,11,ahhh,dfghj,sdfgh,126,Paula,6072256211145
+4,11,ahhh,dfghj,sdfgh,4,dudu,5004567899000
+5,1233,marea gri,un film documentar despre lumea acvatica din marea gri,documentar,126,Paula,6072256211145

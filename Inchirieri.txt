@@ -1,0 +1,28 @@
+
+84,10,Dragoni si strigoi,dxtswaocjrixvxsiuyxxjqkaxyqefutbtqrgphfwgtnrnhjqbbajwrlyflkjlcnmfgqw,horror,63,Maria,8416794373718
+54,7,Dragoni si strigoi,ssgeblskbfopghwjrkdtwooapiewwetwhqsoomffujmhsydfrghbjswyavmhnopb,horror,12,Tania,3116063229081
+38,66,Doua lumi identice,uyddsjjrlkqhprdiqicrlvpidmwappa,dragoste,85,Gabi,4425599855040
+52,7,Dragoni si strigoi,ssgeblskbfopghwjrkdtwooapiewwetwhqsoomffujmhsydfrghbjswyavmhnopb,horror,72,Geo,8414100615052
+86,88,Visul,otbyrqgihsotrjxoisgahjq,sf,57,Pavel,6202063535261
+51,2,Insulele gornee,nagpdcrbgavkbjfvcputl,comedie,83,Teodor,7482004314985
+20,7,Dragoni si strigoi,ssgeblskbfopghwjrkdtwooapiewwetwhqsoomffujmhsydfrghbjswyavmhnopb,horror,73,Geo,1914564621746
+15,45,Insulele gornee,pbijsdmvxqwsntrpinbhoqoeghjsfifjnqbsedoixnteme,comedie,57,Pavel,6202063535261
+28,85,familia perfecta,civacjmhwbukpiihjaslaaqeddgbla,documentar,91,Matei,1887437961672
+79,38,Dragoni si strigoi,byrmyalljvmhaxmnjkqbncdpmypfdspl,actiune,62,Pavel,1154797412420
+9,77,Dragoni si strigoi,xaqpdqkohppsammavoyipjpyxglicxngmtekxuuxixle,dragoste,83,Teodor,7482004314985
+3,28,Insulele gornee,polryfdpdpxfcwsnislqtnhitmboacrrvewuokruwspdaaso,horror,96,Pavel,3290445594401
+45,60,Doua lumi identice,yhxvtexsbntyvymxiiultikewkbwvischbkbyibluofddfuqrq,documentar,5,Matei,3502526587389
+25,78,Insulele gornee,kmusfptimdphotkpaqjdvjeuidtygmrvalhgeuaridrnouqxsuqbntwsiqe,horror,17,Nadia,3366529291315
+80,35,Antarctica,oedepkwjxkunmqkmlgwcnlgvewxnipisotlo,dragoste,33,Tudor,9157517138741
+87,45,Insulele gornee,pbijsdmvxqwsntrpinbhoqoeghjsfifjnqbsedoixnteme,comedie,91,Matei,1887437961672
+21,98,Antarctica,ceqvxkwcdjluqajegmlsmokhfibvmbmqttwmh,horror,46,Pavel,4487642340511
+76,81,Doua lumi identice,vdxolqahttdakjadnevgsybeyhsdaaynyblbolumkuqmhitmrmeexjkbojuvycbiufdc,documentar,74,Teodor,8598103086960
+81,58,Antarctica,ibiokyuuttpkgdmpifxncbhiwiwharelvrawkagbviwelyvgphiqrltxrmuuxjcooallaloeb,actiune,20,Tania,6611695988541
+72,32,familia perfecta,pasqhvhbpcuvweggluisdfacwivgjapawgbyvfjwejdpjbp,sf,91,Matei,1887437961672
+53,59,familia perfecta,rmagndgreyvtmcnyqfqq,dragoste,56,Ana,1375061795230
+44,28,Insulele gornee,polryfdpdpxfcwsnislqtnhitmboacrrvewuokruwspdaaso,horror,69,Pavel,5500641533058
+49,98,Antarctica,ceqvxkwcdjluqajegmlsmokhfibvmbmqttwmh,horror,12,Tania,3116063229081
+16,77,Dragoni si strigoi,xaqpdqkohppsammavoyipjpyxglicxngmtekxuuxixle,dragoste,21,Pavel,4150671494458
+58,59,familia perfecta,rmagndgreyvtmcnyqfqq,dragoste,83,Teodor,7482004314985
+85,98,Antarctica,ceqvxkwcdjluqajegmlsmokhfibvmbmqttwmh,horror,15,Ramona,8571470337755
+123456,12345678,cutu2,asdfghjk,cgh,46,Pavel,4487642340511
